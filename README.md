@@ -1,1 +1,2 @@
 # Medihelp.AI
+Welcome to the MediHelp AI repository! This project showcases our efforts in developing a chatbot powered by trusted medical sources. MediHelp.AI provides accurate solutions to health-related issues by referencing verified medical sources. The chatbot delivers clear answers along with their sources, ensuring users receive reliable and authentic health information without generating unsupported content.
