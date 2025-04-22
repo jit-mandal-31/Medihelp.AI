@@ -74,8 +74,8 @@ This project was built with dedication by:
 
 *Ritam Koley*
 
-*Krishnagopal Jay*
+*Jit Mandal*
 
-*Jit Mandal* 
+ *Krishnagopal Jay*
 
 *Anwesha Das*
